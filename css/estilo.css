@@ -45,7 +45,7 @@ footer{
 	max-width: 950px;
 	margin-left: 30px;
 	margin-top: 10px;
-	height: 200px;
+	height: 300px;
 }
 #logoUNAD{
 	margin-top: 15px;
@@ -83,13 +83,15 @@ footer{
 	margin-left: 10px;
 }
 #LOGOS{
+	margin-top: 10px;
 	margin-left: 200px;
 	max-height: 50px;
-	max-width: 600px;
+	max-width: 700px;
 }
 #logoUNAD2{
 	border: 0;
 	margin-left: 10px;
+	padding-top: 50px;
 } 
 #calidad{
 	float: left;
@@ -97,5 +99,69 @@ footer{
 #calidad1000{
 	float: left;
 	margin-left: 0;
+}
+
+#contacto{
+	color: #333;
+	max-width: 600px;
+	max-height: 100px;
+	top: 30px;
+	margin-left: 250px;
+}
+
+#cont1{
+	border-radius: 5px;
+	background: ##000;
+	height: 40px;
+	margin-right: 10px;
+	width: 250px;
+	color: #fff;
+	margin-top: 30px;
+	padding: 15px;
+	text-decoration: none;
+	float: right;
+	text-align: left;
+	margin-left: 10px;
+	font-size: 10px;
+}
+#cont2{
+	border-radius: 5px;
+	background: ##000;
+	height: 40px;
+	margin-right: 10px;
+	width: 250px;
+	color: #fff;
+	margin-top: 30px;
+	padding: 15px;
+	text-decoration: none;
+	float: right;
+	text-align: left;
+	margin-left: 10px;
+	font-size: 10px;
+}
+
+#actulizado{
+	color: #333;
+	max-width: 800px;
+	max-height: 100px;
+	padding-top: 10px;
+	margin-left: 40px;	
+}
+
+#actua{
+	border-radius: 5px;
+	background: ##000;
+	height: 40px;
+	margin-right: 10px;
+	width: 600px;
+	color: #fff;
+	margin-top: 10px;
+	padding: 15px;
+	text-decoration: none;
+	float: right;
+	text-align: center;
+	margin-left: 10px;
+	font-size: 10px;
+
 }
 =======
