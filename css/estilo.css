@@ -177,13 +177,15 @@ footer{
 }
 #adelante{
 	margin-left: 800px;
-	margin-top: 5px;
+	margin-top: 0px;
 	position: absolute;
 }
 #atras{
 	margin-left: 750px;
-	margin-top: 5px;
+	margin-top: 0px;
 	position: absolute;
 }
-
+td{
+	font-size: 12px;
+}
 =======
