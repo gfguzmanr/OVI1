@@ -36,8 +36,8 @@ h2{
 }
 
 h3{
-	margin-top: 20px;
-	margin-left: 20px;
+	margin-top: 10px;
+	margin-left: 10px;
 }
 
 section{
@@ -51,7 +51,7 @@ footer{
 	max-width: 950px;
 	margin-left: 30px;
 	margin-top: 10px;
-	height: 300px;
+	height: 350px;
 }
 #logoUNAD{
 	margin-top: 15px;
@@ -60,9 +60,9 @@ footer{
 #central{
 	margin-left: 30px;
 	max-width: 950px;
+	height: 500px;	
 	border: solid 1px #333;
 	padding: 0;
-	height: 450px;	
 	margin-top: 20px;
 }
 #Presentacion{
@@ -83,6 +83,12 @@ footer{
 	color: #fff;
 	margin-top: 10px;	
 }
+#Autores{
+	float: left;
+	margin-left: 50px;
+	color: #fff;
+	margin-top: 10px;	
+}
 #logoUNAD{
 	border: 0;
 	margin-top: 30px;
@@ -91,13 +97,43 @@ footer{
 #LOGOS{
 	margin-top: 10px;
 	margin-left: 200px;
-	max-height: 50px;
-	max-width: 700px;
+	max-height: 10px;
+	max-width: 600px;
+}
+#cont1{
+	border-radius: 5px;
+	background: #000;
+	height: 30px;
+	width: 250px;
+	margin-right: 10px;
+	margin-left: 5px;
+	color: #fff;
+	margin-top: 30px;
+	padding: 15px;
+	text-decoration: none;
+	float: right;
+	text-align: left;
+	font-size: 10px;
+}
+#cont2{
+	border-radius: 5px;
+	background: #000;
+	height: 30px;
+	width: 250px;
+	margin-right: 10px;
+	margin-left: 5px;
+	color: #fff;
+	margin-top: 30px;
+	padding: 15px;
+	text-decoration: none;
+	float: right;
+	text-align: left;
+	font-size: 10px;
 }
 #logoUNAD2{
 	border: 0;
 	margin-left: 10px;
-	padding-top: 50px;
+	padding-top: 10px;
 } 
 #calidad{
 	float: left;
@@ -106,7 +142,6 @@ footer{
 	float: left;
 	margin-left: 0;
 }
-
 #contacto{
 	color: #333;
 	max-width: 600px;
@@ -114,38 +149,6 @@ footer{
 	top: 30px;
 	margin-left: 250px;
 }
-
-#cont1{
-	border-radius: 5px;
-	background: ##000;
-	height: 40px;
-	margin-right: 10px;
-	width: 250px;
-	color: #fff;
-	margin-top: 30px;
-	padding: 15px;
-	text-decoration: none;
-	float: right;
-	text-align: left;
-	margin-left: 10px;
-	font-size: 10px;
-}
-#cont2{
-	border-radius: 5px;
-	background: ##000;
-	height: 40px;
-	margin-right: 10px;
-	width: 250px;
-	color: #fff;
-	margin-top: 30px;
-	padding: 15px;
-	text-decoration: none;
-	float: right;
-	text-align: left;
-	margin-left: 10px;
-	font-size: 10px;
-}
-
 #actulizado{
 	color: #333;
 	max-width: 800px;
@@ -153,7 +156,6 @@ footer{
 	padding-top: 10px;
 	margin-left: 40px;	
 }
-
 #actua{
 	border-radius: 5px;
 	background: ##000;
@@ -185,7 +187,35 @@ footer{
 	margin-top: 0px;
 	position: absolute;
 }
+#fotoperfil{
+	max-width: 50px;
+}
+#uno{
+	margin-top: 70px;
+}
+table{
+	margin-top: 10px;
+}
 td{
 	font-size: 12px;
 }
+
+aside{
+	border: 0;
+	margin-left: 5px;
+	padding-top: 10px;
+	max-width: 10px;
+	max-height: 50px;
+} 
+h3{font-size: 18px;
+	margin-top: 20px;
+	margin-left: 30px;
+	position: absolute;
+}
+h4{font-size: 14px;
+	margin-top: 0px;
+	margin-left: 260px;
+	position: absolute;
+}
+
 =======
